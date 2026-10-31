@@ -8,7 +8,7 @@ class Student
     int rollNo;
     string name;
     public:
-    //Constructor
+    //Constructorkjmh
     Student(int r,string n)
     {
         rollNo=r;
