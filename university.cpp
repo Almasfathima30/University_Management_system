@@ -1,6 +1,5 @@
 #include<iostream>
 #include <string>
-// ...existing code...
 using namespace std;
 class Student
 {
@@ -8,7 +7,7 @@ class Student
     int rollNo;
     string name;
     public:
-    //Constructorkjmh
+    //Constructor
     Student(int r,string n)
     {
         rollNo=r;
